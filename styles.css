@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(135, 14, 146);
+    color: rgb(180, 188, 196);
+}
+
+button {
+    background-color: rgb(16, 214, 214);
+}
+
+.show {
+    display: none;
+}
+
+.hidden {
+    display: visible;
+}
